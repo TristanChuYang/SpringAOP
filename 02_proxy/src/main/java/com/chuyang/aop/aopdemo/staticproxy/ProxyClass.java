@@ -1,4 +1,4 @@
-package com.chuyang.aop.aopdemo;
+package com.chuyang.aop.aopdemo.staticproxy;
 
 public class ProxyClass implements TargetInterface {
 
