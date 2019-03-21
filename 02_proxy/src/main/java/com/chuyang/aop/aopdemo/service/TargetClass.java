@@ -1,4 +1,4 @@
-package com.chuyang.aop.aopdemo.staticproxy;
+package com.chuyang.aop.aopdemo.service;
 
 //真实业务的目标类
 public class TargetClass implements TargetInterface {

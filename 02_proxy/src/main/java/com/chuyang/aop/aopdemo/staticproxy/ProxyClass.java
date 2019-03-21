@@ -1,5 +1,8 @@
 package com.chuyang.aop.aopdemo.staticproxy;
 
+import com.chuyang.aop.aopdemo.service.TargetClass;
+import com.chuyang.aop.aopdemo.service.TargetInterface;
+
 public class ProxyClass implements TargetInterface {
 
     //代理类持有真实业务类

@@ -1,4 +1,4 @@
-package com.chuyang.aop.aopdemo.staticproxy;
+package com.chuyang.aop.aopdemo.service;
 
 //目标接口
 public interface TargetInterface {
